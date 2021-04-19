@@ -4,10 +4,10 @@
  * Foram utilizados conceitos de BDD, Page Objects com SitePrism.
 
 ### Gems and version:
-* ruby 2.6.6
+* ruby 2.6.6 .
 
-* Cucumber + RSpec, Capybara + Site Prism
+* Cucumber + RSpec, Capybara + Site Prism.
 
-* Instalar [chromedriver] 87
+* Instalar [chromedriver] 87.
 
-* run 'bundle install' dentro da pasta raiz do projeto;
+* run 'bundle install' dentro da pasta raiz do projeto.
