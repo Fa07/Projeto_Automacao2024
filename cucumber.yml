@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty
+default: --publish-quiet
